@@ -11,8 +11,10 @@ go get -u gorm.io/driver/mysql
 go get -u github.com/golang-jwt/jwt/v4
 go get github.com/swaggo/swag/cmd/swag
 go get -u github.com/swaggo/gin-swagger
- go get -u github.com/swaggo/gin-swagger/swaggerFiles
- go get -u github.com/alecthomas/template
+go get -u github.com/swaggo/gin-swagger/swaggerFiles
+go get -u github.com/alecthomas/template
+go get github.com/go-redis/redis/v8
+
 ```
 
 

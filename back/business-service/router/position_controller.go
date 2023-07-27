@@ -8,22 +8,24 @@ import (
 )
 
 func selectPositions(router *gin.Engine) {
-	router.GET("/positions", func(c *gin.Context) {
+	router.GET("/positions/:mid/:hid/:skill", func(c *gin.Context) {
 		where := model.Position{}
-		err := c.ShouldBindQuery(&where)
+
+		err := c.ShouldBindUri(&where)
 		if err != nil {
 			panic("selectPositions err: " + err.Error())
 		}
+
 		var positions []model.Position
-		database.Select(where, &positions, "stand_x", "stand_y", "put_x", "put_y")
+		database.Select(where, &positions, "id", "stand_x", "stand_y", "put_x", "put_y")
 		c.JSON(200, res.Ok().Data(positions))
 	})
 }
 
 func selectPosition(router *gin.Engine) {
-	router.GET("/position", func(c *gin.Context) {
+	router.GET("/position/:id", func(c *gin.Context) {
 		where := model.Position{}
-		err := c.ShouldBindQuery(&where)
+		err := c.ShouldBindUri(&where)
 		if err != nil {
 			panic("selectPosition err: " + err.Error())
 		}

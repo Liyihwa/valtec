@@ -1,0 +1,56 @@
+2023-07-27 21:27:02.230,INFO,File uploaded swim.png size :1317045 
+2023-07-27 21:27:02.230,WARN,oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 21:27:02.545,INFO,[GIN] 0.340s|200|::1|POST   |"/upload" : 
+2023-07-27 21:38:14.008,INFO,[GIN] 0.000s|404|::1|GET    |"/swim.png" : 
+2023-07-27 21:38:20.912,INFO,File uploaded swim.png size :1317045 
+2023-07-27 21:38:20.912,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 21:38:21.213,INFO,[GIN] 0.311s|200|::1|POST   |"/upload" : 
+2023-07-27 21:43:30.411,INFO,File uploaded swim.png size :1317045 
+2023-07-27 21:43:30.411,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 21:43:30.813,INFO,[GIN] 0.425s|200|::1|POST   |"/upload" : 
+2023-07-27 21:56:05.173,INFO,File uploaded swim.png size :1317045 
+2023-07-27 21:56:05.173,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 21:56:05.600,INFO,[GIN] 0.471s|200|::1|POST   |"/upload" : 
+2023-07-27 21:56:43.893,INFO,File uploaded swim.png size :1317045 
+2023-07-27 21:56:43.894,INFO,path to upload https://valte.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 21:56:44.211,WARN,oss upload failed :oss: service returned error: StatusCode=404, ErrorCode=NoSuchBucket, ErrorMessage="The specified bucket does not exist.", RequestId=64C2779CBF07B63132AF2D55, Ec=0015-00000101
+2023-07-27 21:56:44.211,INFO,[GIN] 0.340s|200|::1|POST   |"/upload" : 
+2023-07-27 21:59:42.286,INFO,File uploaded swim.png size :1317045 
+2023-07-27 21:59:42.286,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 21:59:42.699,INFO,[GIN] 0.436s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-27 22:08:40.497,INFO,[GIN] 0.000s|404|172.16.0.3|OPTIONS|"/upload" : 
+2023-07-27 22:12:04.759,INFO,[GIN] 0.000s|404|172.16.0.3|OPTIONS|"/upload" : 
+2023-07-27 22:14:59.821,INFO,[GIN] 0.000s|200|172.16.0.3|OPTIONS|"/upload" : 
+2023-07-27 22:14:59.868,INFO,File uploaded IMG_1345.jpeg size :119308 
+2023-07-27 22:14:59.868,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:15:01.087,INFO,[GIN] 1.255s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-27 22:19:57.150,INFO,[GIN] 0.000s|404|::1|DELETE |"/delete" : 
+2023-07-27 22:20:26.971,INFO,path to delete https://valtec.oss-cn-chengdu.aliyuncs.com/valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 22:20:27.056,INFO,[GIN] 0.105s|200|::1|DELETE |"/delete" : 
+2023-07-27 22:21:34.904,INFO,path to delete https://valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 22:21:34.943,INFO,[GIN] 0.056s|200|::1|DELETE |"/delete" : 
+2023-07-27 22:21:59.148,INFO,path to delete https://valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 22:21:59.164,INFO,[GIN] 0.016s|200|::1|DELETE |"/delete" : 
+2023-07-27 22:23:07.451,INFO,path to delete https://valtec.oss-cn-chengdu.aliyuncs.com/swim.png
+2023-07-27 22:23:07.511,INFO,[GIN] 0.083s|200|::1|DELETE |"/delete" : 
+2023-07-27 22:30:17.748,INFO,path to delete https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:30:17.830,INFO,[GIN] 0.083s|200|::1|DELETE |"/delete" : 
+2023-07-27 22:30:27.237,INFO,File uploaded IMG_1345.jpeg size :119308 
+2023-07-27 22:30:27.238,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:30:27.402,INFO,[GIN] 0.184s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-27 22:30:32.114,INFO,[GIN] 0.000s|404|172.16.0.3|POST   |"/position" : 
+2023-07-27 22:32:10.388,INFO,File uploaded IMG_1345.jpeg size :119308 
+2023-07-27 22:32:10.388,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:32:10.552,INFO,[GIN] 0.216s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-27 22:36:00.843,INFO,File uploaded IMG_1345.jpeg size :119308 
+2023-07-27 22:36:00.843,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:36:01.010,INFO,[GIN] 0.218s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-27 22:36:10.517,INFO,File uploaded IMG_1345.jpeg size :119308 
+2023-07-27 22:36:10.518,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:36:10.543,INFO,[GIN] 0.060s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-27 22:36:46.442,INFO,File uploaded IMG_1345.jpeg size :119308 
+2023-07-27 22:36:46.442,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:36:46.589,INFO,[GIN] 0.208s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-27 22:39:01.174,INFO,File uploaded IMG_1345.jpeg size :119308 
+2023-07-27 22:39:01.174,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
+2023-07-27 22:39:01.245,INFO,[GIN] 0.098s|200|172.16.0.3|POST   |"/upload" : 
