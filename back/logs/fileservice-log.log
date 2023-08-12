@@ -54,3 +54,388 @@
 2023-07-27 22:39:01.174,INFO,File uploaded IMG_1345.jpeg size :119308 
 2023-07-27 22:39:01.174,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1345.jpeg
 2023-07-27 22:39:01.245,INFO,[GIN] 0.098s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-28 10:29:42.754,INFO,File uploaded astra.webp size :3722 
+2023-07-28 10:29:42.755,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/astra.webp
+2023-07-28 10:29:42.881,INFO,[GIN] 0.129s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:29:58.859,INFO,File uploaded astra_c.webp size :850 
+2023-07-28 10:29:58.859,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/astra_c.webp
+2023-07-28 10:29:58.903,INFO,[GIN] 0.047s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:03.401,INFO,File uploaded astra_e.webp size :688 
+2023-07-28 10:30:03.401,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/astra_e.webp
+2023-07-28 10:30:03.416,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:07.576,INFO,File uploaded astra_q.webp size :788 
+2023-07-28 10:30:07.577,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/astra_q.webp
+2023-07-28 10:30:07.593,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:11.622,INFO,File uploaded astra_x.webp size :912 
+2023-07-28 10:30:11.622,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/astra_x.webp
+2023-07-28 10:30:11.639,INFO,[GIN] 0.025s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:16.401,INFO,File uploaded breach.webp size :3494 
+2023-07-28 10:30:16.402,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/breach.webp
+2023-07-28 10:30:16.420,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:20.522,INFO,File uploaded breach_c.webp size :962 
+2023-07-28 10:30:20.522,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/breach_c.webp
+2023-07-28 10:30:20.540,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:25.140,INFO,File uploaded breach_e.webp size :998 
+2023-07-28 10:30:25.141,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/breach_e.webp
+2023-07-28 10:30:25.163,INFO,[GIN] 0.028s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:30.232,INFO,File uploaded breach_q.webp size :1662 
+2023-07-28 10:30:30.232,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/breach_q.webp
+2023-07-28 10:30:30.249,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:34.146,INFO,File uploaded breach_x.webp size :980 
+2023-07-28 10:30:34.146,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/breach_x.webp
+2023-07-28 10:30:34.192,INFO,[GIN] 0.052s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:38.486,INFO,File uploaded brimstone.webp size :3376 
+2023-07-28 10:30:38.486,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/brimstone.webp
+2023-07-28 10:30:38.518,INFO,[GIN] 0.037s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:43.351,INFO,File uploaded brimstone_c.webp size :682 
+2023-07-28 10:30:43.352,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/brimstone_c.webp
+2023-07-28 10:30:43.367,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:47.733,INFO,File uploaded brimstone_e.webp size :392 
+2023-07-28 10:30:47.734,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/brimstone_e.webp
+2023-07-28 10:30:47.748,INFO,[GIN] 0.017s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:52.239,INFO,File uploaded brimstone_q.webp size :550 
+2023-07-28 10:30:52.240,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/brimstone_q.webp
+2023-07-28 10:30:52.254,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:30:57.259,INFO,File uploaded brimstone_x.webp size :802 
+2023-07-28 10:30:57.260,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/brimstone_x.webp
+2023-07-28 10:30:57.278,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:03.567,INFO,File uploaded chamber.webp size :3166 
+2023-07-28 10:31:03.568,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/chamber.webp
+2023-07-28 10:31:03.586,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:08.420,INFO,File uploaded chamber_c.webp size :786 
+2023-07-28 10:31:08.422,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/chamber_c.webp
+2023-07-28 10:31:08.441,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:13.250,INFO,File uploaded chamber_e.webp size :692 
+2023-07-28 10:31:13.251,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/chamber_e.webp
+2023-07-28 10:31:13.265,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:21.768,INFO,File uploaded chamber_e.webp size :692 
+2023-07-28 10:31:21.768,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/chamber_e.webp
+2023-07-28 10:31:21.782,INFO,[GIN] 0.016s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:27.000,INFO,File uploaded chamber_q.webp size :1406 
+2023-07-28 10:31:27.001,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/chamber_q.webp
+2023-07-28 10:31:27.019,INFO,[GIN] 0.023s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:31.777,INFO,File uploaded chamber_x.webp size :1578 
+2023-07-28 10:31:31.777,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/chamber_x.webp
+2023-07-28 10:31:31.797,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:36.314,INFO,File uploaded cypher.webp size :3628 
+2023-07-28 10:31:36.315,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/cypher.webp
+2023-07-28 10:31:36.334,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:42.014,INFO,File uploaded cypher_c.webp size :332 
+2023-07-28 10:31:42.015,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/cypher_c.webp
+2023-07-28 10:31:42.035,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:47.716,INFO,File uploaded cypher_e.webp size :1320 
+2023-07-28 10:31:47.716,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/cypher_e.webp
+2023-07-28 10:31:47.747,INFO,[GIN] 0.033s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:52.506,INFO,File uploaded cypher_q.webp size :758 
+2023-07-28 10:31:52.506,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/cypher_q.webp
+2023-07-28 10:31:52.525,INFO,[GIN] 0.026s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:31:57.770,INFO,File uploaded cypher_x.webp size :852 
+2023-07-28 10:31:57.770,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/cypher_x.webp
+2023-07-28 10:31:57.805,INFO,[GIN] 0.036s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:02.075,INFO,File uploaded deadlock.webp size :2760 
+2023-07-28 10:32:02.075,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/deadlock.webp
+2023-07-28 10:32:02.092,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:06.442,INFO,File uploaded deadlock_c.webp size :934 
+2023-07-28 10:32:06.442,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/deadlock_c.webp
+2023-07-28 10:32:06.464,INFO,[GIN] 0.027s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:10.812,INFO,File uploaded deadlock_e.webp size :890 
+2023-07-28 10:32:10.812,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/deadlock_e.webp
+2023-07-28 10:32:10.829,INFO,[GIN] 0.019s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:15.192,INFO,File uploaded deadlock_q.webp size :926 
+2023-07-28 10:32:15.192,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/deadlock_q.webp
+2023-07-28 10:32:15.208,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:17.951,INFO,File uploaded deadlock_q.webp size :926 
+2023-07-28 10:32:17.951,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/deadlock_q.webp
+2023-07-28 10:32:17.978,INFO,[GIN] 0.028s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:24.428,INFO,File uploaded deadlock_x.webp size :2368 
+2023-07-28 10:32:24.428,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/deadlock_x.webp
+2023-07-28 10:32:24.455,INFO,[GIN] 0.030s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:28.583,INFO,File uploaded fade.webp size :2870 
+2023-07-28 10:32:28.584,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/fade.webp
+2023-07-28 10:32:28.609,INFO,[GIN] 0.027s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:33.233,INFO,File uploaded fade_c.webp size :1114 
+2023-07-28 10:32:33.233,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/fade_c.webp
+2023-07-28 10:32:33.252,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:43.336,INFO,File uploaded fade_e.webp size :554 
+2023-07-28 10:32:43.337,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/fade_e.webp
+2023-07-28 10:32:43.351,INFO,[GIN] 0.016s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:47.628,INFO,File uploaded fade_q.webp size :556 
+2023-07-28 10:32:47.628,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/fade_q.webp
+2023-07-28 10:32:47.643,INFO,[GIN] 0.017s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:53.250,INFO,File uploaded fade_x.webp size :650 
+2023-07-28 10:32:53.251,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/fade_x.webp
+2023-07-28 10:32:53.267,INFO,[GIN] 0.019s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:32:58.872,INFO,File uploaded gekko.webp size :2270 
+2023-07-28 10:32:58.872,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/gekko.webp
+2023-07-28 10:32:58.889,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:04.063,INFO,File uploaded gekko_c.webp size :882 
+2023-07-28 10:33:04.063,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/gekko_c.webp
+2023-07-28 10:33:04.086,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:09.653,INFO,File uploaded gekko_e.webp size :2648 
+2023-07-28 10:33:09.653,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/gekko_e.webp
+2023-07-28 10:33:09.672,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:14.990,INFO,File uploaded gekko_q.webp size :1010 
+2023-07-28 10:33:14.990,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/gekko_q.webp
+2023-07-28 10:33:15.008,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:19.506,INFO,File uploaded gekko_x.webp size :2408 
+2023-07-28 10:33:19.506,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/gekko_x.webp
+2023-07-28 10:33:19.524,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:23.735,INFO,File uploaded harbor.webp size :2732 
+2023-07-28 10:33:23.736,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/harbor.webp
+2023-07-28 10:33:23.773,INFO,[GIN] 0.041s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:28.512,INFO,File uploaded harbor_c.webp size :570 
+2023-07-28 10:33:28.512,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/harbor_c.webp
+2023-07-28 10:33:28.530,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:34.149,INFO,File uploaded harbor_e.webp size :1414 
+2023-07-28 10:33:34.150,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/harbor_e.webp
+2023-07-28 10:33:34.166,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:38.715,INFO,File uploaded harbor_q.webp size :782 
+2023-07-28 10:33:38.715,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/harbor_q.webp
+2023-07-28 10:33:38.733,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:44.728,INFO,File uploaded harbor_x.webp size :646 
+2023-07-28 10:33:44.728,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/harbor_x.webp
+2023-07-28 10:33:44.744,INFO,[GIN] 0.019s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:51.029,INFO,File uploaded jett.webp size :3748 
+2023-07-28 10:33:51.029,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/jett.webp
+2023-07-28 10:33:51.048,INFO,[GIN] 0.023s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:33:56.441,INFO,File uploaded jett_c.webp size :556 
+2023-07-28 10:33:56.441,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/jett_c.webp
+2023-07-28 10:33:56.459,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:00.829,INFO,File uploaded jett_e.webp size :1356 
+2023-07-28 10:34:00.829,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/jett_e.webp
+2023-07-28 10:34:00.847,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:06.155,INFO,File uploaded jett_q.webp size :1322 
+2023-07-28 10:34:06.156,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/jett_q.webp
+2023-07-28 10:34:06.174,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:27.268,INFO,File uploaded jett_x.webp size :2032 
+2023-07-28 10:34:27.268,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/jett_x.webp
+2023-07-28 10:34:27.289,INFO,[GIN] 0.023s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:34.857,INFO,File uploaded kayo.webp size :3764 
+2023-07-28 10:34:34.857,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/kayo.webp
+2023-07-28 10:34:34.881,INFO,[GIN] 0.029s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:39.717,INFO,File uploaded kayo_c.webp size :1068 
+2023-07-28 10:34:39.717,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/kayo_c.webp
+2023-07-28 10:34:39.749,INFO,[GIN] 0.035s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:44.324,INFO,File uploaded kayo_e.webp size :608 
+2023-07-28 10:34:44.324,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/kayo_e.webp
+2023-07-28 10:34:44.346,INFO,[GIN] 0.025s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:49.189,INFO,File uploaded kayo_q.webp size :1106 
+2023-07-28 10:34:49.189,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/kayo_q.webp
+2023-07-28 10:34:49.210,INFO,[GIN] 0.023s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:53.852,INFO,File uploaded kayo_x.webp size :822 
+2023-07-28 10:34:53.852,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/kayo_x.webp
+2023-07-28 10:34:53.871,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:34:59.679,INFO,File uploaded killjoy.webp size :3936 
+2023-07-28 10:34:59.679,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/killjoy.webp
+2023-07-28 10:34:59.695,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:35:06.355,INFO,File uploaded killjoy_c.webp size :868 
+2023-07-28 10:35:06.355,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/killjoy_c.webp
+2023-07-28 10:35:06.372,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:35:11.774,INFO,File uploaded killjoy_e.webp size :576 
+2023-07-28 10:35:11.774,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/killjoy_e.webp
+2023-07-28 10:35:11.789,INFO,[GIN] 0.016s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:35:18.108,INFO,File uploaded killjoy_q.webp size :820 
+2023-07-28 10:35:18.108,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/killjoy_q.webp
+2023-07-28 10:35:18.125,INFO,[GIN] 0.017s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:35:33.938,INFO,File uploaded killjoy_x.webp size :992 
+2023-07-28 10:35:33.938,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/killjoy_x.webp
+2023-07-28 10:35:33.956,INFO,[GIN] 0.019s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:35:41.462,INFO,File uploaded neno_c.webp size :576 
+2023-07-28 10:35:41.462,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/neno_c.webp
+2023-07-28 10:35:41.480,INFO,[GIN] 0.019s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:35:48.752,INFO,File uploaded neno_e.webp size :1846 
+2023-07-28 10:35:48.753,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/neno_e.webp
+2023-07-28 10:35:48.779,INFO,[GIN] 0.030s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:35:56.175,INFO,File uploaded neno_q.webp size :446 
+2023-07-28 10:35:56.175,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/neno_q.webp
+2023-07-28 10:35:56.191,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:36:02.560,INFO,File uploaded neno_x.webp size :686 
+2023-07-28 10:36:02.560,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/neno_x.webp
+2023-07-28 10:36:02.578,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:36:08.350,INFO,File uploaded neon.webp size :4990 
+2023-07-28 10:36:08.350,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/neon.webp
+2023-07-28 10:36:08.366,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:47:29.965,INFO,File uploaded omen.webp size :3312 
+2023-07-28 10:47:29.965,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/omen.webp
+2023-07-28 10:47:30.080,INFO,[GIN] 0.116s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:47:35.652,INFO,File uploaded omen_c.webp size :1352 
+2023-07-28 10:47:35.652,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/omen_c.webp
+2023-07-28 10:47:35.670,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:47:40.461,INFO,File uploaded omen_e.webp size :506 
+2023-07-28 10:47:40.461,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/omen_e.webp
+2023-07-28 10:47:40.476,INFO,[GIN] 0.016s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:47:45.789,INFO,File uploaded omen_q.webp size :618 
+2023-07-28 10:47:45.789,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/omen_q.webp
+2023-07-28 10:47:45.804,INFO,[GIN] 0.015s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:47:52.594,INFO,File uploaded omen_x.webp size :1394 
+2023-07-28 10:47:52.594,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/omen_x.webp
+2023-07-28 10:47:52.611,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:47:58.457,INFO,File uploaded phoenix.webp size :3388 
+2023-07-28 10:47:58.457,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/phoenix.webp
+2023-07-28 10:47:58.481,INFO,[GIN] 0.028s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:03.641,INFO,File uploaded phoenix_c.webp size :692 
+2023-07-28 10:48:03.641,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/phoenix_c.webp
+2023-07-28 10:48:03.658,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:08.720,INFO,File uploaded phoenix_e.webp size :542 
+2023-07-28 10:48:08.721,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/phoenix_e.webp
+2023-07-28 10:48:08.734,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:14.816,INFO,File uploaded phoenix_q.webp size :1036 
+2023-07-28 10:48:14.817,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/phoenix_q.webp
+2023-07-28 10:48:14.842,INFO,[GIN] 0.027s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:19.317,INFO,File uploaded phoenix_x.webp size :1550 
+2023-07-28 10:48:19.317,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/phoenix_x.webp
+2023-07-28 10:48:19.333,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:23.295,INFO,File uploaded raze.webp size :4040 
+2023-07-28 10:48:23.295,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/raze.webp
+2023-07-28 10:48:23.313,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:27.924,INFO,File uploaded raze_c.webp size :718 
+2023-07-28 10:48:27.924,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/raze_c.webp
+2023-07-28 10:48:27.942,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:33.550,INFO,File uploaded raze_e.webp size :1576 
+2023-07-28 10:48:33.550,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/raze_e.webp
+2023-07-28 10:48:33.569,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:41.628,INFO,File uploaded raze_q.webp size :1028 
+2023-07-28 10:48:41.628,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/raze_q.webp
+2023-07-28 10:48:41.652,INFO,[GIN] 0.027s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:47.609,INFO,File uploaded raze_x.webp size :1768 
+2023-07-28 10:48:47.609,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/raze_x.webp
+2023-07-28 10:48:47.631,INFO,[GIN] 0.023s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:52.674,INFO,File uploaded reyna.webp size :3574 
+2023-07-28 10:48:52.674,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/reyna.webp
+2023-07-28 10:48:52.691,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:48:57.966,INFO,File uploaded reyna_c.webp size :568 
+2023-07-28 10:48:57.966,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/reyna_c.webp
+2023-07-28 10:48:57.984,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:07.005,INFO,File uploaded reyna_e.webp size :1828 
+2023-07-28 10:49:07.006,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/reyna_e.webp
+2023-07-28 10:49:07.027,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:13.121,INFO,File uploaded reyna_q.webp size :1558 
+2023-07-28 10:49:13.122,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/reyna_q.webp
+2023-07-28 10:49:13.139,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:18.039,INFO,File uploaded reyna_x.webp size :2402 
+2023-07-28 10:49:18.040,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/reyna_x.webp
+2023-07-28 10:49:18.067,INFO,[GIN] 0.030s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:23.464,INFO,File uploaded sage.webp size :3456 
+2023-07-28 10:49:23.464,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sage.webp
+2023-07-28 10:49:23.491,INFO,[GIN] 0.034s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:29.009,INFO,File uploaded sage_c.webp size :378 
+2023-07-28 10:49:29.009,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sage_c.webp
+2023-07-28 10:49:29.030,INFO,[GIN] 0.023s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:34.830,INFO,File uploaded sage_e.webp size :1262 
+2023-07-28 10:49:34.831,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sage_e.webp
+2023-07-28 10:49:34.849,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:40.537,INFO,File uploaded sage_q.webp size :870 
+2023-07-28 10:49:40.537,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sage_q.webp
+2023-07-28 10:49:40.554,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:46.361,INFO,File uploaded sage_x.webp size :1976 
+2023-07-28 10:49:46.361,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sage_x.webp
+2023-07-28 10:49:46.378,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:51.731,INFO,File uploaded skye.webp size :4020 
+2023-07-28 10:49:51.731,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/skye.webp
+2023-07-28 10:49:51.756,INFO,[GIN] 0.031s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:49:57.829,INFO,File uploaded skye_c.webp size :1136 
+2023-07-28 10:49:57.830,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/skye_c.webp
+2023-07-28 10:49:57.849,INFO,[GIN] 0.022s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:03.928,INFO,File uploaded skye_e.webp size :692 
+2023-07-28 10:50:03.928,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/skye_e.webp
+2023-07-28 10:50:03.943,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:09.272,INFO,File uploaded skye_q.webp size :1218 
+2023-07-28 10:50:09.272,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/skye_q.webp
+2023-07-28 10:50:09.289,INFO,[GIN] 0.018s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:16.186,INFO,File uploaded skye_x.webp size :1784 
+2023-07-28 10:50:16.186,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/skye_x.webp
+2023-07-28 10:50:16.225,INFO,[GIN] 0.039s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:25.084,INFO,File uploaded sova.webp size :3390 
+2023-07-28 10:50:25.085,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sova.webp
+2023-07-28 10:50:25.101,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:31.169,INFO,File uploaded sova_c.webp size :972 
+2023-07-28 10:50:31.169,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sova_c.webp
+2023-07-28 10:50:31.189,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:37.261,INFO,File uploaded sova_e.webp size :890 
+2023-07-28 10:50:37.261,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sova_e.webp
+2023-07-28 10:50:37.283,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:43.736,INFO,File uploaded sova_q.webp size :510 
+2023-07-28 10:50:43.736,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sova_q.webp
+2023-07-28 10:50:43.754,INFO,[GIN] 0.021s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:49.836,INFO,File uploaded sova_x.webp size :768 
+2023-07-28 10:50:49.836,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/sova_x.webp
+2023-07-28 10:50:49.855,INFO,[GIN] 0.019s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:50:56.830,INFO,File uploaded viper.webp size :3798 
+2023-07-28 10:50:56.831,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/viper.webp
+2023-07-28 10:50:56.847,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:03.672,INFO,File uploaded viper_c.webp size :568 
+2023-07-28 10:51:03.672,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/viper_c.webp
+2023-07-28 10:51:03.688,INFO,[GIN] 0.015s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:09.632,INFO,File uploaded viper_e.webp size :730 
+2023-07-28 10:51:09.632,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/viper_e.webp
+2023-07-28 10:51:09.656,INFO,[GIN] 0.025s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:15.312,INFO,File uploaded viper_q.webp size :622 
+2023-07-28 10:51:15.313,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/viper_q.webp
+2023-07-28 10:51:15.334,INFO,[GIN] 0.025s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:21.011,INFO,File uploaded viper_x.webp size :634 
+2023-07-28 10:51:21.012,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/viper_x.webp
+2023-07-28 10:51:21.043,INFO,[GIN] 0.032s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:27.630,INFO,File uploaded yoru.webp size :3368 
+2023-07-28 10:51:27.630,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/yoru.webp
+2023-07-28 10:51:27.656,INFO,[GIN] 0.032s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:33.679,INFO,File uploaded yoru_c.webp size :1392 
+2023-07-28 10:51:33.679,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/yoru_c.webp
+2023-07-28 10:51:33.710,INFO,[GIN] 0.035s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:40.676,INFO,File uploaded yoru_e.webp size :2158 
+2023-07-28 10:51:40.676,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/yoru_e.webp
+2023-07-28 10:51:40.693,INFO,[GIN] 0.020s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:47.324,INFO,File uploaded yoru_q.webp size :1970 
+2023-07-28 10:51:47.324,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/yoru_q.webp
+2023-07-28 10:51:47.360,INFO,[GIN] 0.037s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:51:53.484,INFO,File uploaded yoru_x.webp size :1680 
+2023-07-28 10:51:53.484,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/yoru_x.webp
+2023-07-28 10:51:53.501,INFO,[GIN] 0.017s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:00.240,INFO,File uploaded 莲华古城.jpg size :62116 
+2023-07-28 10:52:00.241,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/莲华古城.jpg
+2023-07-28 10:52:00.265,INFO,[GIN] 0.029s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:07.186,INFO,File uploaded 莲华古城平面.jpg size :32436 
+2023-07-28 10:52:07.186,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/莲华古城平面.jpg
+2023-07-28 10:52:07.202,INFO,[GIN] 0.017s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:13.830,INFO,File uploaded 霓虹町.jpg size :59010 
+2023-07-28 10:52:13.830,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/霓虹町.jpg
+2023-07-28 10:52:13.863,INFO,[GIN] 0.038s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:21.208,INFO,File uploaded 霓虹町平面.jpg size :37204 
+2023-07-28 10:52:21.209,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/霓虹町平面.jpg
+2023-07-28 10:52:21.240,INFO,[GIN] 0.035s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:26.719,INFO,File uploaded 微风岛屿.jpg size :60806 
+2023-07-28 10:52:26.719,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/微风岛屿.jpg
+2023-07-28 10:52:26.743,INFO,[GIN] 0.029s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:32.235,INFO,File uploaded 微风岛屿平面.jpg size :44390 
+2023-07-28 10:52:32.236,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/微风岛屿平面.jpg
+2023-07-28 10:52:32.275,INFO,[GIN] 0.041s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:41.561,INFO,File uploaded 亚海悬城.jpg size :56853 
+2023-07-28 10:52:41.561,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/亚海悬城.jpg
+2023-07-28 10:52:41.589,INFO,[GIN] 0.032s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:48.251,INFO,File uploaded 亚海悬城平面.jpg size :30632 
+2023-07-28 10:52:48.251,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/亚海悬城平面.jpg
+2023-07-28 10:52:48.275,INFO,[GIN] 0.024s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:53.244,INFO,File uploaded 隐世修所.jpg size :69864 
+2023-07-28 10:52:53.244,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/隐世修所.jpg
+2023-07-28 10:52:53.275,INFO,[GIN] 0.036s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:52:59.199,INFO,File uploaded 隐世修所平面.jpg size :36934 
+2023-07-28 10:52:59.199,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/隐世修所平面.jpg
+2023-07-28 10:52:59.226,INFO,[GIN] 0.030s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:53:04.920,INFO,File uploaded 源工重镇.jpg size :127576 
+2023-07-28 10:53:04.920,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/源工重镇.jpg
+2023-07-28 10:53:04.949,INFO,[GIN] 0.033s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 10:53:10.395,INFO,File uploaded 源工重镇平面.jpg size :80696 
+2023-07-28 10:53:10.395,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/源工重镇平面.jpg
+2023-07-28 10:53:10.418,INFO,[GIN] 0.027s|200|172.16.0.62|POST   |"/upload" : 
+2023-07-28 13:55:58.010,INFO,[GIN] 0.000s|200|172.16.0.3|OPTIONS|"/upload" : 
+2023-07-28 13:55:58.077,INFO,File uploaded IMG_1601.jpeg size :179348 
+2023-07-28 13:55:58.078,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1601.jpeg
+2023-07-28 13:55:58.195,INFO,[GIN] 0.170s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-28 14:06:07.404,INFO,File uploaded IMG_1601.jpeg size :179348 
+2023-07-28 14:06:07.404,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1601.jpeg
+2023-07-28 14:06:07.489,INFO,[GIN] 0.111s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-28 17:30:47.169,INFO,File uploaded IMG_1601.jpeg size :179348 
+2023-07-28 17:30:47.170,INFO,path to upload https://valtec.oss-cn-chengdu.aliyuncs.com/IMG_1601.jpeg
+2023-07-28 17:30:47.298,INFO,[GIN] 0.433s|200|172.16.0.3|POST   |"/upload" : 
+2023-07-30 16:37:37.133|INFO|[GIN] 0.000s|%!!(MISSING)s(int=404)|192.168.3.141|GET    |"/nice ports,/Trinity.txt.bak" : 
+2023-07-30 16:37:37.147|INFO|[GIN] 0.000s|%!!(MISSING)s(int=404)|192.168.3.141|GET    |"/" : 
+2023-07-30 16:37:37.159|INFO|[GIN] 0.000s|%!!(MISSING)s(int=200)|192.168.3.141|OPTIONS|"/" : 
