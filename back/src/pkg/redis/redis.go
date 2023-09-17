@@ -37,7 +37,6 @@ func Set(key string, value any, expiration time.Duration) {
 
 func Get(key string) string {
 	res, err := client.Get(ctx, key).Result()
-
 	if err != nil {
 		if err == redis.Nil {
 			return ""
@@ -45,5 +44,9 @@ func Get(key string) string {
 		logwa.Erro("{_r}redis Get{;} :{rx}%s{;}", err.Error())
 		panic(err)
 	}
-	return res
+	if res != "null" {
+		return res
+	} else {
+		return ""
+	}
 }

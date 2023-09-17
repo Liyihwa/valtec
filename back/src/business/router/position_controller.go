@@ -26,10 +26,8 @@ func selectPositions(router *gin.Engine) {
 
 		var positions []model.Position
 		database.Select(where, &positions, "id", "stand_x", "stand_y", "put_x", "put_y")
-		positionsJson := json.ToJson(positions)
-
-		redis.AddJsonCache(redisKey, positionsJson)
-		c.JSON(200, res.Ok().Data(positionsJson))
+		redis.AddJsonCache(redisKey, positions)
+		c.JSON(200, res.Ok().Data(positions))
 	})
 }
 

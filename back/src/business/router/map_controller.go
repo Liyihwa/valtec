@@ -4,7 +4,6 @@ import (
 	"github.com/gin-gonic/gin"
 	"valtec/business/model"
 	"valtec/pkg/database"
-	"valtec/pkg/json"
 	"valtec/pkg/redis"
 	"valtec/pkg/res"
 )
@@ -16,10 +15,8 @@ func selectMaps(router *gin.Engine) {
 		}
 
 		maps := make([]model.Map, 0)
-		database.Select(&model.Map{}, &maps, "name", "url", "avatar")
-
-		mapsJson := json.ToJson(maps)
-		redis.AddJsonCache("maps", mapsJson)
-		c.JSON(200, res.Ok().Data(mapsJson))
+		database.Select(nil, &maps, "name", "url", "avatar")
+		redis.AddJsonCache("maps", maps)
+		c.JSON(200, res.Ok().Data(maps))
 	})
 }

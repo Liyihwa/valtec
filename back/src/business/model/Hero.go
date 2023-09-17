@@ -13,3 +13,13 @@ type Hero struct {
 func (Hero) TableName() string {
 	return "HERO"
 }
+
+func (h Hero) GetInfo() ResObject {
+	resMap := make(ResObject)
+	resMap["id"] = h.ID
+	resMap["avatar"] = h.Avatar
+	resMap["name"] = h.Name
+	skills := [4]Skill{MakeSkill("c", h.C), MakeSkill("q", h.Q), MakeSkill("e", h.E), MakeSkill("x", h.X)}
+	resMap["skills"] = skills
+	return resMap
+}
