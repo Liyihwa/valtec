@@ -16,7 +16,7 @@ func Router() *gin.Engine {
 	register(r)
 	login(r)
 	emailVerif(r)
-	
+
 	//map
 	selectMaps(r)
 

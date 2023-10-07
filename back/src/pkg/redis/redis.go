@@ -31,22 +31,20 @@ func Set(key string, value any, expiration time.Duration) {
 	err := client.Set(ctx, key, value, expiration).Err()
 	if err != nil {
 		logwa.Erro("{_r}redis Set{;} :{rx}%s{;}", err.Error())
-		panic(err)
 	}
 }
 
 func Get(key string) string {
 	res, err := client.Get(ctx, key).Result()
 	if err != nil {
-		if err == redis.Nil {
-			return ""
-		}
 		logwa.Erro("{_r}redis Get{;} :{rx}%s{;}", err.Error())
-		panic(err)
-	}
-	if res != "null" {
-		return res
-	} else {
 		return ""
+	}
+	return res
+}
+
+func Delete(key string) {
+	if err := client.Del(ctx, key).Err(); err != nil {
+		logwa.Erro("{_r}redis Delete{;} :{rx}%s{;}", err.Error())
 	}
 }

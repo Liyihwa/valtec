@@ -1,9 +1,11 @@
 package router
 
 import (
+	"fmt"
 	"github.com/gin-gonic/gin"
 	model2 "valtec/business/model"
 	"valtec/pkg/database"
+	"valtec/pkg/redis"
 	"valtec/pkg/res"
 )
 
@@ -17,6 +19,8 @@ func addPosition(router *gin.Engine) {
 		position.Like = 1
 		position.Dislike = 1
 		database.AddOne(&position)
+		redisKey := fmt.Sprintf("positions:%d:%d:%s", position.MapID, position.HeroID, position.Skill)
+		redis.Delete(redisKey)
 		c.JSON(200, res.Ok())
 	})
 }
@@ -28,8 +32,9 @@ func addHero(router *gin.Engine) {
 		if err != nil {
 			panic("addHero err: " + err.Error())
 		}
-		println(hero.Avatar)
+
 		database.AddOne(&hero)
+		redis.Delete("heros")
 		c.JSON(200, res.Ok())
 	})
 }
@@ -43,6 +48,7 @@ func addMap(router *gin.Engine) {
 		}
 
 		database.AddOne(&_map)
+		redis.Delete("maps")
 		c.JSON(200, res.Ok())
 	})
 }

@@ -15,7 +15,7 @@ func selectMaps(router *gin.Engine) {
 		}
 
 		maps := make([]model.Map, 0)
-		database.Select(nil, &maps, "name", "url", "avatar")
+		database.Select(nil, &maps, "id", "name", "url", "avatar")
 		redis.AddJsonCache("maps", maps)
 		c.JSON(200, res.Ok().Data(maps))
 	})

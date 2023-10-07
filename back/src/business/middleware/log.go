@@ -75,8 +75,9 @@ func LogMiddleware() gin.HandlerFunc {
 		val, _ := c.Get("msg")
 		sb, _ := val.(*strings.Builder)
 		msg := sb.String()
-
 		logwa.Info("[GIN]%6.3fs|%s|%s|%-7s|\"%s\" : %s", duration.Seconds(), code(c.Writer.Status()), c.ClientIP(), c.Request.Method, c.Request.URL.Path, msg)
-		Log.Info("[GIN]%6.3fs|%s|%s|%-7s|\"%s\" : %s", duration.Seconds(), c.Writer.Status(), c.ClientIP(), c.Request.Method, c.Request.URL.Path, msg)
+		Log.Info("[GIN]%6.3fs|%d|%s|%-7s|\"%s\" : %s", duration.Seconds(), c.Writer.Status(), c.ClientIP(), c.Request.Method, c.Request.URL.Path, msg)
 	}
 }
+
+//10.16.19.138
