@@ -31,7 +31,7 @@ func GetIntSevere(section string, key string) int {
 	str := GetStringSevere(section, key)
 	intVal, err := strconv.Atoi(str)
 	if err != nil {
-		panic("config get error :" + err.Error())
+		panic("ParseInt error :" + err.Error())
 	}
 	return intVal
 }
@@ -107,4 +107,13 @@ func GetTimeSevere(section string, key string) time.Duration {
 		}
 	}
 	return time.Duration(timeAll)
+}
+
+func GetBoolSever(section string, key string) bool {
+	str := GetStringSevere(section, key)
+	boolValue, err := strconv.ParseBool(str)
+	if err != nil {
+		panic("ParseBool error :" + err.Error())
+	}
+	return boolValue
 }

@@ -4,7 +4,6 @@ import (
 	"github.com/jordan-wright/email"
 	"net/smtp"
 	"valtec/pkg/config"
-	"valtec/pkg/log"
 )
 
 var fromEmail, fromName, authorizeCode, host, addr string
@@ -23,8 +22,5 @@ func Send(to, subject, html string) error {
 	em.Subject = subject
 	em.HTML = []byte(html)
 	err := em.Send(addr, smtp.PlainAuth("", fromEmail, authorizeCode, host))
-	if err != nil {
-		log.Erro("Send error: {r}%s{;}", err.Error())
-	}
 	return err
 }

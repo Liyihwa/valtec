@@ -10,6 +10,12 @@ github.com/Liyihwa/logwa v0.0.0-20230729064358-7d484a563638 h1:uutybWhwCMwngB2QC
 github.com/Liyihwa/logwa v0.0.0-20230729064358-7d484a563638/go.mod h1:/vqQXlg0nduTNAg29NAYSQ191Ybbq3iK8qqXSbbWQM0=
 github.com/Liyihwa/logwa v0.0.0-20230729065243-a25c46ff68a3 h1:4/L4nGYxP4x1nNWtTH+QPmT/oCfs7+/m8XRqyp13veM=
 github.com/Liyihwa/logwa v0.0.0-20230729065243-a25c46ff68a3/go.mod h1:/vqQXlg0nduTNAg29NAYSQ191Ybbq3iK8qqXSbbWQM0=
+github.com/Liyihwa/logwa v0.0.0-20231021075945-da8f6b47222e h1:z/VHL67g1QAXfBE5A83/R5Au5CpWHBPm9rnlrus4Uyc=
+github.com/Liyihwa/logwa v0.0.0-20231021075945-da8f6b47222e/go.mod h1:/vqQXlg0nduTNAg29NAYSQ191Ybbq3iK8qqXSbbWQM0=
+github.com/Liyihwa/logwa v0.0.0-20231021081729-86a18033ad81 h1:7ITSX9V+U/C9y4u1c+RXygTWLFdiuH6w7647elF6Euk=
+github.com/Liyihwa/logwa v0.0.0-20231021081729-86a18033ad81/go.mod h1:/vqQXlg0nduTNAg29NAYSQ191Ybbq3iK8qqXSbbWQM0=
+github.com/Liyihwa/logwa v0.0.0-20231021085021-0be1bd62a8fd h1:JKIs8wXFRPWhKHe32GtM9RsjcDlJzLnHSQeR5ODpcE8=
+github.com/Liyihwa/logwa v0.0.0-20231021085021-0be1bd62a8fd/go.mod h1:/vqQXlg0nduTNAg29NAYSQ191Ybbq3iK8qqXSbbWQM0=
 github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 h1:JYp7IbQjafoB+tBA3gMyHYHrpOtNuDiK/uB5uXxq5wM=
 github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/aliyun/aliyun-oss-go-sdk v2.2.7+incompatible h1:KpbJFXwhVeuxNtBJ74MCGbIoaBok2uZvkD7QXp2+Wis=

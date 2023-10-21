@@ -2,10 +2,10 @@ package redis
 
 import (
 	"context"
-	"github.com/Liyihwa/logwa"
 	"github.com/redis/go-redis/v9"
 	"time"
 	"valtec/pkg/config"
+	"valtec/pkg/log"
 )
 
 var addr, password string
@@ -30,14 +30,14 @@ func init() {
 func Set(key string, value any, expiration time.Duration) {
 	err := client.Set(ctx, key, value, expiration).Err()
 	if err != nil {
-		logwa.Erro("{_r}redis Set{;} :{rx}%s{;}", err.Error())
+		log.Erro("{_r}redis Set{;} :{rx}%s{;}", err.Error())
 	}
 }
 
 func Get(key string) string {
 	res, err := client.Get(ctx, key).Result()
 	if err != nil {
-		logwa.Erro("{_r}redis Get{;} :{rx}%s{;}", err.Error())
+		log.Erro("{_r}redis Get{;} :{rx}%s{;}", err.Error())
 		return ""
 	}
 	return res
@@ -45,6 +45,6 @@ func Get(key string) string {
 
 func Delete(key string) {
 	if err := client.Del(ctx, key).Err(); err != nil {
-		logwa.Erro("{_r}redis Delete{;} :{rx}%s{;}", err.Error())
+		log.Erro("{_r}redis Delete{;} :{rx}%s{;}", err.Error())
 	}
 }

@@ -14,7 +14,7 @@ require (
 
 require (
 	github.com/KyleBanks/depth v1.2.1 // indirect
-	github.com/Liyihwa/logwa v0.0.0-20230729065243-a25c46ff68a3 // indirect
+	github.com/Liyihwa/logwa v0.0.0-20231021085021-0be1bd62a8fd // indirect
 	github.com/aliyun/aliyun-oss-go-sdk v2.2.7+incompatible // indirect
 	github.com/bytedance/sonic v1.10.0-rc3 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
